@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "cypress": "^13.10.0"
+  }
+}

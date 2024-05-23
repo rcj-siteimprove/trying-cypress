@@ -1,0 +1,17 @@
+<!doctype html>
+<head>
+  <title>Hello</title>
+</head>
+<body id="body">
+  <h1>Hello, World</h1>
+  <button onclick="changeBackground()">Change Background</button>
+  <div>
+    <label for="uuid">UUID</label>
+    <input id="uuid" name="uuid" type="text" />
+  </div>
+  <script>
+    function changeBackground() {
+      document.getElementById("body").style.backgroundColor = "purple";
+    }
+  </script>
+</body>

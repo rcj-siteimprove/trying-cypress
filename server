@@ -1,0 +1,5 @@
+#!/bin/sh
+
+set -xe
+
+python -m http.server 8080
