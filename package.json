@@ -1,6 +1,7 @@
 {
   "type": "module",
   "devDependencies": {
+    "@siteimprove/alfa-rules": "^0.80.0",
     "cypress": "^13.10.0"
   }
 }
